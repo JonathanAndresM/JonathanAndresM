@@ -1,0 +1,19 @@
+{
+  "name": "jonathanandresm",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @JonathanAndresM\r - 👀 I’m interested in ...\r - 🌱 I’m currently learning ...\r - 💞️ I’m looking to collaborate on ...\r - 📫 How to reach me ...\r - 😄 Pronouns: ...\r - ⚡ Fun fact: ...",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./server.js",
+    "dev": "nodemon ./server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
