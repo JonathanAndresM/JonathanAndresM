@@ -1,5 +1,6 @@
 import express from "express";
 import "dotenv/config.js";
+import "./config/db.js"
 
 const server = express()
 

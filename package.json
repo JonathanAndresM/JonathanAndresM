@@ -6,7 +6,11 @@
   "type": "module",
   "scripts": {
     "start": "node ./server.js",
-    "dev": "nodemon ./server.js"
+    "dev": "nodemon ./server.js",
+    "dataUsers": "node ./models/data/users.js",
+    "dataAutos": "node ./models/data/autos.js",
+    "dataMangas": "node ./models/data/mangas.js",
+    "dataAnimes": "node ./models/data/animes.js"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +18,7 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
+    "mongoose": "^8.7.1",
     "nodemon": "^3.1.7"
   }
 }
