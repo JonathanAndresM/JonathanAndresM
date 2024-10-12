@@ -16,3 +16,5 @@ npm install express
 npm install -sever-dev nodemon
 npm install dotenv
 npm install mongoose
+npm i cors
+mpn i morgan
