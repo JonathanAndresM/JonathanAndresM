@@ -18,7 +18,7 @@ let usersByRole = async (req, res) => {
         console.log(req.params);
 
         let roleQuery = req.params.rol
-        let all = await User.find({role:roleQuery})
+        let all = await User.find({ role: roleQuery })
         return res.status(200).json({
             response: all
         })
@@ -29,4 +29,20 @@ let usersByRole = async (req, res) => {
     }
 }
 
-export {allUsers,usersByRole}
+let usersById = async (req, res) => {
+    try {
+        console.log(req.params);
+
+        let roleQuery = req.params.id
+        let all = await User.findById(roleQuery)
+        return res.status(200).json({
+            response: all
+        })
+    } catch (error) {
+        return res.status(500).json({
+            response: error
+        })
+    }
+}
+
+export { allUsers, usersByRole, usersById }
