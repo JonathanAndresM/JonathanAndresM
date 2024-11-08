@@ -1,8 +1,9 @@
 import User from "../../models/User.js";
 
-let create = async (req,res,next) => {
+let register = async (req,res,next) => {
     try {
         let user = req.body
+        user.online = false
         let all = await User.create(user)
         return res.status(201).json({
             response: all
@@ -25,4 +26,4 @@ let createMany = async (req,res,next) => {
 }
 
 
-export {create,createMany}
+export {register,createMany}
