@@ -50,13 +50,13 @@ Desarrollador web full stack enfocado en crear soluciones prácticas y escalable
 
 ## 🐍 Snake Game de Contribuciones
 
-![Snake animation](https://github.com/JonathanAndresM/JonathanAndresM/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JonathanAndresM/JonathanAndresM/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Cómo contactarme
 
-- 📧 Email: **jonathan.muchewicz@gmail.com**
+- 📧 Email: **jonathanandres.dev@gmail.com**
 - 💼 LinkedIn: [Jonathan Muchewicz](https://www.linkedin.com/in/jonathan-muchewicz/)
 - 🧑‍💻 GitHub: [@JonathanAndresM](https://github.com/JonathanAndresM)
 
