@@ -46,6 +46,8 @@ Desarrollador web full stack enfocado en crear soluciones prácticas y escalable
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAndresM&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=JonathanAndresM&theme=radical&hide_border=true)
+
 ---
 
 ## 🐍 Snake Game de Contribuciones
