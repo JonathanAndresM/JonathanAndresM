@@ -52,7 +52,7 @@ Desarrollador web full stack enfocado en crear soluciones prácticas y escalable
 
 ## 🐍 Snake Game de Contribuciones
 
-![Snake animation](https://github.com/JonathanAndresM/JonathanAndresM/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JonathanAndresM/JonathanAndresM/blob/main/output/github-contribution-grid-snake.svg)
 
 ---
 
