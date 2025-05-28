@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Ejecuta todos los días a medianoche
+    - cron: "0 0 * * *" # Corre una vez al día
   workflow_dispatch:
+
+permissions:
+  contents: write  # 👈 esto permite hacer push a ramas
 
 jobs:
   generate:
