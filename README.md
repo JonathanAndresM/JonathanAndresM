@@ -9,8 +9,8 @@ Desarrollador Full Stack apasionado por la creación de soluciones útiles, intu
 - 🔭 Actualmente estoy trabajando en una **aplicación contable local**, un **juego de sopa de letras**, y una **app de delivery para rotisería**.
 - 🌱 Aprendiendo continuamente sobre **Node.js**, **Express**, **React**, **MongoDB**, **MySQL**, y **Mercado Pago API**.
 - 🤝 Abierto a colaborar en proyectos **open source**, **bots de productividad** y soluciones web innovadoras.
-- 📫 Podés contactarme por [LinkedIn](https://www.linkedin.com/in/jonathan-muchewicz/) o por email: jonathanandresmuchewicz@gmail.com
-- ⚡ Dato curioso: también desarrollo scripts y bots para juegos como The West ⚔️
+- 📫 Podés contactarme por [LinkedIn](https://www.linkedin.com/in/jonathan-muchewicz/) o por email: jonathanandres.dev@gmail.com
+- ⚡ Dato curioso: también desarrollo scripts para juegos como The West ⚔️ y bots para discord.
 
 ---
 
