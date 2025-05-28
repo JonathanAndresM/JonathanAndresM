@@ -1,80 +1,51 @@
 # 👋 ¡Hola! Soy Jonathan Muchewicz
 
-Desarrollador web full stack enfocado en crear soluciones prácticas y escalables. Apasionado por la automatización, la productividad y el desarrollo de aplicaciones con impacto real.
-
-![Profile Views](https://komarev.com/ghpvc/?username=JonathanAndresM&color=blueviolet&style=flat)
+Desarrollador Full Stack apasionado por la creación de soluciones útiles, intuitivas y escalables. Me especializo en el desarrollo de aplicaciones web utilizando tecnologías modernas del ecosistema JavaScript.
 
 ---
 
-## 🚀 Sobre mí
+## 💼 Sobre mí
 
-- 💻 Actualmente desarrollando una **aplicación para una rotisería** con funcionalidades para usuarios, repartidores y administradores.
-- 🧾 También trabajo en un **sistema de facturación contable** con integración a AFIP.
-- 🤖 Explorando la creación de **bots de productividad** con Node.js.
-- 🌱 Aprendiendo sobre arquitectura de software, testing y automatización con fines legales.
+- 🔭 Actualmente estoy trabajando en una **aplicación contable local**, un **juego de sopa de letras**, y una **app de delivery para rotisería**.
+- 🌱 Aprendiendo continuamente sobre **Node.js**, **Express**, **React**, **MongoDB**, **MySQL**, y **Mercado Pago API**.
+- 🤝 Abierto a colaborar en proyectos **open source**, **bots de productividad** y soluciones web innovadoras.
+- 📫 Podés contactarme por [LinkedIn](https://www.linkedin.com/in/jonathan-muchewicz/) o por email: jonathanandresmuchewicz@gmail.com
+- ⚡ Dato curioso: también desarrollo scripts y bots para juegos como The West ⚔️
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
 ---
 
-## 📌 Repositorios destacados
+## 📊 GitHub Stats
 
-- [🎯 Sistema Contable con Facturación y AFIP](https://github.com/JonathanAndresM)
-- [📦 Aplicación de Delivery para Rotisería](https://github.com/JonathanAndresM)
-- [🧩 Sopa de Letras Interactiva (React + Tailwind)](https://github.com/JonathanAndresM)
-
----
-
-## 📊 Estadísticas
-
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanAndresM&show_icons=true&theme=radical)
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanAndresM&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAndresM&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JonathanAndresM&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=JonathanAndresM&theme=radical&hide_border=true)
 
 ---
 
-## 🐍 Snake Game de Contribuciones
+## 🐍 Animación Snake
 
-![Snake animation](https://github.com/JonathanAndresM/JonathanAndresM/blob/main/output/github-contribution-grid-snake.svg)
-
----
-
-## 📫 Cómo contactarme
-
-- 📧 Email: **jonathanandres.dev@gmail.com**
-- 💼 LinkedIn: [Jonathan Muchewicz](https://www.linkedin.com/in/jonathan-muchewicz/)
-- 🧑‍💻 GitHub: [@JonathanAndresM](https://github.com/JonathanAndresM)
+![Snake animation](https://raw.githubusercontent.com/JonathanAndresM/JonathanAndresM/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 😄 Pronombres
-
-Él / Him
-
----
-
-## ⚡ Fun fact
-
-Puedo pasar horas depurando una función… y disfrutarlo 😅
-
-
+Gracias por visitar mi perfil 🙌 ¡Conectemos y creemos cosas increíbles!
 
 <!---
 JonathanAndresM/JonathanAndresM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
