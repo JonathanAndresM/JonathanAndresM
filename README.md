@@ -29,20 +29,35 @@ Desarrollador Full Stack apasionado por la creación de soluciones útiles, intu
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Snake Animation
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanAndresM&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAndresM&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JonathanAndresM&theme=radical&hide_border=true)
+![GitHub Snake](https://raw.githubusercontent.com/JonathanAndresM/JonathanAndresM/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🐍 Animación Snake
+## 📊 GitHub Stats
 
-![Snake animation](https://raw.githubusercontent.com/JonathanAndresM/JonathanAndresM/output/github-contribution-grid-snake.svg)
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanAndresM&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAndresM&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JonathanAndresM&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+---
+
+## 🏆 GitHub Trofeos
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JonathanAndresM&theme=radical&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 👀 Visitas
+
+![Profile views](https://komarev.com/ghpvc/?username=JonathanAndresM&color=brightgreen)
 ---
 
 Gracias por visitar mi perfil 🙌 ¡Conectemos y creemos cosas increíbles!
